@@ -1,8 +1,8 @@
 /*****************************************************
  * Kelly Schiller                                    *
  * COSC 2050.01 Java Programming I                   *
- * Program: Reservation.java                         * 
- *                                                   *
+ * Program File: Reservation.java                    * 
+ * Program: Reservation Calculator                   *
  *                                                   *
  ****************************************************/
 import java.math.BigDecimal;
