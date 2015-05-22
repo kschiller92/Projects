@@ -1,8 +1,8 @@
 /*****************************************************
  * Kelly Schiller                                    *
  * COSC 2050.01 Java Programming I                   *
- * Program: ReservationCalculator.java               * 
- *                                                   *
+ * Program File: ReservationCalculator.java          * 
+ * Program: Reservation Calculator                   *
  *                                                   *
  ****************************************************/
 import java.util.*;
